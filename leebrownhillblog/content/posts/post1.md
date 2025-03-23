@@ -5,3 +5,12 @@ title = 'Post1'
 +++
 
  this is some content
+
+ ```sql
+ SELECT 
+    name,
+    age,
+    location
+FROM dbo.Users
+ORDER BY name ASC
+```
