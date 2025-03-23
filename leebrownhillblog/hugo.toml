@@ -1,0 +1,4 @@
+baseURL = 'https://leebrownhill.github.io/'
+languageCode = 'en-us'
+title = 'Lee Brownhills Blog!'
+theme = 'Mainroad'
