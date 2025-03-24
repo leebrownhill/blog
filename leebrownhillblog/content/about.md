@@ -11,7 +11,7 @@ Fast forward several years, and Lee is now in a consultant role, advising client
 He holds certifications across a variety of Azure and AWS specialisms.  
 [Placeholder for badge images]
 
-![alt text](../img/BadgeBanner.png)
+![Certifications Awarded](../img/BadgeBanner.png)
 
 Lee is a regular attendee at tech events, particularly those focused on the Data Platform. Some of his favourites include SQLBits, Data Relay, and the Redgate Summit. He deeply values the SQL Server community and remains grateful for the support and knowledge it has shared with him.
 
