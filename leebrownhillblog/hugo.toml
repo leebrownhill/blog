@@ -34,7 +34,7 @@ pluralizeListTitles = false
 
 
 [Params.logo]
-  image = "img/headerlogo.png"
+  image = "img/avatar.png"
   title = "Lee Brownhill's Blog"
   subtitle = "A blog about SQL Server, mostly"
 
