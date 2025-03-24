@@ -16,9 +16,3 @@ He holds certifications across a variety of Azure and AWS specialisms.
 <br>
 
 Lee is a regular attendee at tech events, particularly those focused on the Data Platform. Some of his favourites include SQLBits, Data Relay, and the Redgate Summit. He deeply values the SQL Server community and remains grateful for the support and knowledge it has shared with him.
-
-<br>
-
-If you’d like to get in touch, you can find him here:  
-- LinkedIn: https://www.linkedin.com/in/leebrownhill/
-- Email: lbrownhill [at] live.co.uk
