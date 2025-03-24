@@ -12,7 +12,7 @@ He holds certifications across a variety of Azure and AWS specialisms.
 [Placeholder for badge images]
 
 
-<img src="../img/BadgeBanner.png" alt="Description of Image" style="width:1091px; height:178px;">
+<img src="../img/BadgeBanner.png" alt="Description of Image" style="width:800px; height:auto;">
 
 
 
