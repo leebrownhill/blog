@@ -9,14 +9,16 @@ It didn't take long to realise that he wanted to work with SQL Server and so, ev
 Fast forward several years, and Lee is now in a consultant role, advising clients on how to get the most out of their cloud workloads.
 
 He holds certifications across a variety of Azure and AWS specialisms.  
-[Placeholder for badge images]
 
+<img src="../img/BadgeBanner.png" alt="Certifications Awarded" style="width:800px; height:auto;">
 
-<img src="../img/BadgeBanner.png" alt="Description of Image" style="width:800px; height:auto;">
-
-
+<br>
+<br>
 
 Lee is a regular attendee at tech events, particularly those focused on the Data Platform. Some of his favourites include SQLBits, Data Relay, and the Redgate Summit. He deeply values the SQL Server community and remains grateful for the support and knowledge it has shared with him.
 
+<br>
+
 If you’d like to get in touch, you can find him here:  
-[Insert contact information]
+- LinkedIn: https://www.linkedin.com/in/leebrownhill/
+- Email: lbrownhill [at] live.co.uk
