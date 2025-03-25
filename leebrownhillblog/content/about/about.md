@@ -1,5 +1,3 @@
-# About
-
 Lee Brownhill is a SQL Server DBA with more years of experience than he cares to admit. 
 Currently, he works as a Principal Cloud DBA at Cloud Rede, helping clients optimise their SQL workloads in both Azure and AWS. His passion lies in optimisation and automation within SQL Server, and he confesses that he will never tire of making things run faster.
 
@@ -12,6 +10,8 @@ He holds certifications across a variety of Azure and AWS specialisms.
 
 <img src="../img/BadgeBanner.png" alt="Certifications Awarded" style="width:800px; height:auto;">
 
+<br>
+<br>
 <br>
 <br>
 
