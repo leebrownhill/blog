@@ -1,5 +1,5 @@
 +++
-title = 'Me Me Me'
+title = 'About'
 +++
 
 Lee Brownhill is a SQL Server DBA with more years of experience than he cares to admit. 
