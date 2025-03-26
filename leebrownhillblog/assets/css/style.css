@@ -51,7 +51,7 @@ html {
 body {
 	margin: 0;
 	font-family: {{ $fontFamilyPrimary }};
-	font-size: 6px;
+	font-size: 3px;
 	font-size: .875rem;
 	line-height: 1.6;
 	word-wrap: break-word;
