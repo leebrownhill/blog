@@ -41,7 +41,7 @@ pluralizeListTitles = false
 [Author] # Used in authorbox
   name = "Lee Brownhill"
   bio = "Lee Brownhill is a SQL Server Professional. He enjoys making SQL Server go faster"
-  avatar = "img/headerlogo.png"
+  avatar = "img/avatar.png"
 
 [menu]
   [[menu.main]]
