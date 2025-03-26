@@ -32,6 +32,8 @@ pluralizeListTitles = false
   #url = "https://www.credly.com/users/leebrownhill"
   #icon = "youtube.svg"
 
+[params.meta]
+  favicon = false
 
 [Params.logo]
   image = "img/avatar.png"

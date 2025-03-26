@@ -18,11 +18,5 @@ He holds certifications across a variety of Azure and AWS specialisms.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 Lee is a regular attendee at tech events, particularly those focused on the Data Platform. Some of his favourites include SQLBits, Data Relay, and the Redgate Summit. He deeply values the SQL Server community and remains grateful for the support and knowledge it has shared with him.
