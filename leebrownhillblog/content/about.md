@@ -20,5 +20,7 @@ He holds certifications across a variety of Azure and AWS specialisms.
 <br>
 
 Lee is a regular attendee at tech events, particularly those focused on the Data Platform. Some of his favourites include SQLBits, Data Relay, and the Redgate Summit. He deeply values the SQL Server community and remains grateful for the support and knowledge it has shared with him.
-A notable career highlight for Lee was getting the opportunity to spend a whole week with Itzik Ben-Gan in the class room. Lee attended Itzik's "Advanced T-SQL Querying, Programming and Tuning for SQL Server" week long training session.
-Lee states, "This was a pivitol moment for me during my career. I saw the depth you can go to with SQL Server and it was astounding. When I grow up, I would hope to be 5% as knowledgable at Itzik"
+
+
+A notable career highlight for Lee was the opportunity to spend a whole week with [Itzik Ben-Gan](https://www.amazon.com/stores/Itzik-Ben-Gan/author/B001IGQENW?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true) in the classroom. Lee attended Itzik’s week-long training session, titled “Advanced T-SQL Querying, Programming, and Tuning for SQL Server.” \
+Reflecting on the experience, Lee states, “This was a pivotal moment in my career. I discovered the astounding depth you can achieve with SQL Server. When I grow up, I hope to be even 5% as knowledgeable as Itzik.”
