@@ -1,10 +1,12 @@
 +++
 date = '2025-03-23T17:19:39Z'
-draft = false
+draft = true
 title = 'SQL Unit Testing Using tSQLt: Part 1'
 +++
 
-## Unit...what now?
+<br>
+
+### Unit...what now?
 
 Other practitioners of code slinging, such as .net folks, have been unit testing their code for many moons now. Us SQL folks however rarely seem to do this from what I have seen.
 A few job roles ago now, I had to use unit testing on a daily basis. It was heavily integrated into our work flow via the CI/CD pipelines we used. Ultimately, if you checked some code in, you made sure you had the associated unit tests written for it.
@@ -16,7 +18,7 @@ Better egg on ones face, than omelettes in production
 
 <br>
 
-## Unit Testing Defined
+### Unit Testing Defined
 
 While it may seem obvious to some, a loose definition of 'unit testing' would be:
 >*Testing the smallest part (unit) of one’s application code. Providing some standard inputs and preempting its >output(s) to validate the unit’s functionality*
@@ -25,9 +27,9 @@ While it may seem obvious to some, a loose definition of 'unit testing' would be
 
 <br>
 
-## So what is tSQLt?
+### So what is tSQLt?
 
-tSQLt [link] is an open-source framework used for the purposes of unit testing SQL Server code. APIs are also available making it possible to integrate nicely into CI (Continuous Integration) services such as TFS and Azure DevOps.
+[tSQLt](https://tsqlt.org/) is an open-source framework used for the purposes of unit testing SQL Server code. APIs are also available making it possible to integrate nicely into CI (Continuous Integration) services such as TFS and Azure DevOps.
 Some key features and benefits:
 - Write tests in T-SQL – an obvious benefit. No need to learn additional or external tools
 - Tests are all run within transactions keeping your test independent (and idempotent) thus minimizing clean up work
@@ -38,7 +40,7 @@ Some key features and benefits:
 
 <br>
 
-## Great! But how can it help me?
+### Great! But how can it help me?
 
 The main benefit tSQLt has given me is assurance in stored procedure changes I have made. 
 Its enabled me to have confidence that the core functionality of a procedure has remained the same after i have made changes to it.
@@ -46,7 +48,7 @@ The ability to totally isolate the stored procedure's functionality and verify i
 
 <br>
 
-## Looking Forward
+### Looking Forward
 
 I am once again working in an environment where I know tSQLt is going to help me. I currently have several projects on the go where I can see the need for unit testing.
 So with that said, i'm dusting off the cobwebs of my tSQLt install to get to know my old friend again. I do hope you come along for the journey.
