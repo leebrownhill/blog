@@ -40,6 +40,10 @@ pluralizeListTitles = false
   title = "Lee Brownhill's Blog"
   subtitle = "A blog about SQL Server, mostly"
 
+[Params.thumbnail]
+  # Show thumbnail only for list items
+  visibility = ["list"]
+
 [Author] # Used in authorbox
   name = "Lee Brownhill"
   bio = "Lee Brownhill is a SQL Server Professional. He enjoys making SQL Server go faster"

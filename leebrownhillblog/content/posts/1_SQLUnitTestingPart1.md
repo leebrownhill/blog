@@ -2,6 +2,7 @@
 date = '2025-03-23T17:19:39Z'
 draft = true
 title = 'SQL Unit Testing Using tSQLt: Part 1'
+featured_image = "featured_images/tsqlt_logo.png"
 +++
 
 <br>
