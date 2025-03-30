@@ -1,0 +1,81 @@
+#sectionPagesMenu = "main"
+baseURL = 'https://leebrownhill.github.io/'
+languageCode = 'en-us'
+title = "Lee Brownhill's Blog"
+theme='mainroad'
+pluralizeListTitles = false
+
+
+[Params]
+  description = "Lee Brownhill's Blog about mostly SQL Server" # Site description. Used in meta description
+  copyright = "Lee Brownhill" # Footer copyright holder, otherwise will use site title
+  showTitle = false
+
+[Params.style.vars]
+  highlightColor = "#04724D" # Override highlight color
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = false  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search","recent", "social", "languages","taglist"]
+
+  [Params.widgets.social]
+  # Enable parts of social widget
+  linkedin = "leebrownhill"
+  github = "leebrownhill"
+  email = "lbrownhill@live.co.uk"
+  
+  #[[Params.widgets.social.custom]]
+  #title = "Credly"
+  #url = "https://www.credly.com/users/leebrownhill"
+  #icon = "youtube.svg"
+
+[params.meta]
+  favicon = false
+
+[Params.logo]
+  image = "img/avatar.png"
+  title = "Lee Brownhill's Blog"
+  subtitle = "A blog about SQL Server, mostly"
+
+[Params.thumbnail]
+  # Show thumbnail only for list items
+  visibility = ["list"]
+
+[Author] # Used in authorbox
+  name = "Lee Brownhill"
+  bio = "Lee Brownhill is a SQL Server Professional. He enjoys making SQL Server go faster"
+  avatar = "img/avatar.png"
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "blog"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "projects"
+    name = "projects"
+    url = "/projects"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about"
+    weight = 3
+  [[menu.main]]
+    identifier = "contact"
+    name = "contact"
+    url = "/contact"
+    weight = 4
+
+[taxonomies]
+tag = "tags"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
