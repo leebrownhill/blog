@@ -17,7 +17,7 @@ pluralizeListTitles = false
 [Params.sidebar]
   home = "right" # Configure layout for home page
   list = false  # Configure layout for list pages
-  single = false # Configure layout for single pages
+  single = "right" # Configure layout for single pages
   # Enable widgets in given order
   widgets = ["search","recent", "social", "languages","taglist"]
 
