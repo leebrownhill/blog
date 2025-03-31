@@ -1,8 +1,6 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
 
-<br>
-
   {{ with .Params.featured }}
     {{ with resources.Get . }}
     <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
