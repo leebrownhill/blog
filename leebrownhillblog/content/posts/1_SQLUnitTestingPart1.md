@@ -3,6 +3,7 @@ date = '2025-03-23T17:19:39Z'
 draft = true
 title = 'SQL Unit Testing Using tSQLt: Part 1'
 featured = 'img/featured/tsqlt_logo.png'
+thumbnail= "img/featured/tsqlt_logo.png"
 +++
 
 <br>
@@ -10,6 +11,8 @@ featured = 'img/featured/tsqlt_logo.png'
 ### Unit...what now?
 
 Other practitioners of code slinging, such as .net folks, have been unit testing their code for many moons now. Us SQL folks however rarely seem to do this from what I have seen.
+
+
 A few job roles ago now, I had to use unit testing on a daily basis. It was heavily integrated into our work flow via the CI/CD pipelines we used. Ultimately, if you checked some code in, you made sure you had the associated unit tests written for it.
 As with many things of this nature, initially, it felt like a chore; an unnecessary extra that needed thinking about all of sudden.
 One day however, a unit test caught an error in one of my procedures (dear reader, I was as shocked as you probably are). The unit test caught an edge case bug in my code, one which would never have found with basic smoke testing. 
